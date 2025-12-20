@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Data+science+student+at+OsloMet;Future+AI+developer" alt="Typing SVG" /></a>
-## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=EliaFantini&color=brightgreen&style=for-the-badge">
+## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=oahoglund&color=brightgreen&style=for-the-badge">
 - I am studying data science at OsloMet and graduating with a bachelors degree in 2026.
 - I have a deep interesst in everything AI (generative, computer vision, machine learning, deep learning)
 
@@ -111,6 +111,7 @@
 
 ## Some of my favorite projects
 
-### Water potability
-
+### [Explainable AI - Water Potability Prediction](https://github.com/oahoglund/MAMO3100-Oblig3)
+**Random Forest & SVC with XAI (PDP, ALE, Permutation Importance, Friedman’s H)**  
+Course project exploring interpretability of black-box models using real-world water quality data.  
 ### And so on
