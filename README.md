@@ -1,13 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Data+science+student+at+OsloMet;Future+AI+developer" alt="Typing SVG" /></a>
-## Short Introduction
-- I am a student at OsloMet
-
-## Contact me
-
-<p align="left">
-  <a href="mailto:oscaralberthoglund@hotmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/oscar-albert-h%C3%B6glund-9964a9332/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-</p>
+## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=EliaFantini&color=brightgreen&style=for-the-badge">
+- I am studying data science at OsloMet and graduating with a bachelors degree in 2026.
+- I have a deep interesst in everything AI (generative, computer vision, machine learning, deep learning)
 
 ## Tech stack
 <h3 align="left">Languages:</h3>
@@ -94,10 +88,26 @@
 
 ## Statistics
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=oahoglund&show_icons=true&locale=en&layout=compact" alt="oahoglund" /></p>
+<p>
+  <img align="left" width="400"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=oahoglund&show_icons=true&locale=en&layout=compact"
+       alt="oahoglund" />
+</p>
 
-<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=oahoglund&show_icons=true&locale=en" alt="oahoglund" /></p>
+<p>
+  <img align="left" width="400"
+       src="https://github-readme-stats.vercel.app/api?username=oahoglund&show_icons=true&locale=en"
+       alt="oahoglund" />
+</p>
 
+<br clear="both">
+
+## Contact me
+
+<p align="left">
+  <a href="mailto:oscaralberthoglund@hotmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/oscar-albert-h%C3%B6glund-9964a9332/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
 
 ## Some of my favorite projects
 
