@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Oscar
 
-<!--
-**oahoglund/oahoglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student with a strong interest in AI and machine learning.
 
-Here are some ideas to get you started:
+### Interests
+- Machine learning & AI
+- Data analysis
+- Model evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Jupyter
