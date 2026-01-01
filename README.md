@@ -113,5 +113,10 @@
 
 ### [Explainable AI - Water Potability Prediction](https://github.com/oahoglund/MAMO3100-Oblig3)
 **Random Forest & SVC with XAI (PDP, ALE, Permutation Importance, Friedman’s H)**  
-Course project exploring interpretability of black-box models using real-world water quality data.  
+Course project exploring interpretability of black-box models using real-world water quality data.
+
+### [Chess (Java)](https://github.com/oahoglund/Chess)
+**Java · Swing · Game Logic · Gradle**  
+A fully playable chess game built from scratch in Java, featuring a custom GUI, complete move validation, special chess rules (castling, en passant, promotion), and checkmate detection.
+
 ### And so on
