@@ -1,8 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Data+science+student+at+OsloMet;Future+AI+developer" alt="Typing SVG" /></a>
 ## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=oahoglund&color=brightgreen&style=for-the-badge">
-- I am studying data science at OsloMet and graduating with a bachelors degree in 2026.
-- I have a deep interesst in everything AI (generative, computer vision, machine learning, deep learning)
-- I also enjoy computational mathematics
+-  **Data Science Student** at Oslo Metropolitan University, pursuing a Bachelor's in Mathematical Modelling and Data Science
+-  **Python Enthusiast** - Working with data science (EDA, ML models, deployment) and numerical simulations
+-  **Passionate about AI & ML** - Exploring machine learning, explainable AI, and staying current with latest research
+-  **Numerical Mathematics** - Interested in computational methods, fluid dynamics, and Monte Carlo simulations
+-  **Java Developer** - Building applications and learning traditional computer science topics like algorithms
+-  **Based in** Oslo, Norway
+-  **When not coding** - Enjoying grand strategy games and keeping up with AI research through "Two Minute Papers"
 
 ## Tech stack
 <h3 align="left">Languages:</h3>
@@ -107,6 +111,7 @@
 
 <p align="left">
   <a href="mailto:oscaralberthoglund@hotmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://oahoglund.github.io/"><img height="40" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="website"/></a>
   <a href="https://www.linkedin.com/in/oscar-albert-h%C3%B6glund-9964a9332/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
