@@ -119,3 +119,7 @@ Course project exploring interpretability of black-box models using real-world w
 ### [Chess (Java)](https://github.com/oahoglund/Chess)
 **Java · Swing · Game Logic · Gradle**  
 A fully playable chess game built from scratch in Java, featuring a custom GUI, complete move validation, special chess rules (castling, en passant, promotion), and checkmate detection.
+
+### [Quantum Double-Slit Simulation](https://github.com/oahoglund/MAMO3200_Eksamen)
+**Numerical solution of the 2D Schrödinger equation (FD, Leapfrog, RK4, Crank–Nicolson)**  
+Computational physics exam project modeling and visualizing the quantum mechanical double-slit experiment using finite difference methods, sparse linear algebra, and 3D scientific visualization.
