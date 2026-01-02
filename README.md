@@ -2,6 +2,7 @@
 ## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=oahoglund&color=brightgreen&style=for-the-badge">
 - I am studying data science at OsloMet and graduating with a bachelors degree in 2026.
 - I have a deep interesst in everything AI (generative, computer vision, machine learning, deep learning)
+- I also enjoy computational mathematics
 
 ## Tech stack
 <h3 align="left">Languages:</h3>
@@ -118,5 +119,3 @@ Course project exploring interpretability of black-box models using real-world w
 ### [Chess (Java)](https://github.com/oahoglund/Chess)
 **Java · Swing · Game Logic · Gradle**  
 A fully playable chess game built from scratch in Java, featuring a custom GUI, complete move validation, special chess rules (castling, en passant, promotion), and checkmate detection.
-
-### And so on
