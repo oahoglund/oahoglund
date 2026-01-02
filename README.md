@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Data+science+student+at+OsloMet;Future+AI+developer" alt="Typing SVG" /></a>
+# Hi, I'm Oscar
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=26&pause=1000&color=2CF776&center=true&width=800&height=70&lines=Data+Science+student+at+Oslo+Metropolitan+University;Future+ML+and+AI+developer;Computational+Mathematics+Enthusiast" alt="Typing SVG" /></a>
 ## Short Introduction <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=oahoglund&color=brightgreen&style=for-the-badge">
 -  **Data Science Student** at Oslo Metropolitan University, pursuing a Bachelor's in Mathematical Modelling and Data Science
 -  **Python Enthusiast** - Working with data science (EDA, ML models, deployment) and numerical simulations
