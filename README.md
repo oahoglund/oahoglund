@@ -117,13 +117,16 @@
 </p>
 
 ## Some of my favorite projects
-
 ### [Explainable AI - Water Potability Prediction](https://github.com/oahoglund/MAMO3100-Oblig3)
 **Random Forest & SVC with XAI (PDP, ALE, Permutation Importance, Friedman’s H)**  
 Course project exploring interpretability of black-box models using real-world water quality data.
 
+### [WattTommorow - Electricity Price Forcasting](https://github.com/oahoglund/DATA3800-WattTommorrow-clean-)
+**XGBoost, Feature Engineering, FastAPI, Local LLMs**  
+End-to-end data science project for forecasting day-ahead electricity prices with API deployment and LLM-based explanations.
+
 ### [Chess (Java)](https://github.com/oahoglund/Chess)
-**Java · Swing · Game Logic · Gradle**  
+**Java, Swing, Game Logic, Gradle**  
 A fully playable chess game built from scratch in Java, featuring a custom GUI, complete move validation, special chess rules (castling, en passant, promotion), and checkmate detection.
 
 ### [Quantum Double-Slit Simulation](https://github.com/oahoglund/MAMO3200_Eksamen)
