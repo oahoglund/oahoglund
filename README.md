@@ -5,7 +5,6 @@
 -  **Python Enthusiast** - Working with data science (EDA, ML models, deployment) and numerical simulations
 -  **Passionate about AI & ML** - Exploring machine learning, explainable AI, and staying current with latest research
 -  **Numerical Mathematics** - Interested in computational methods, fluid dynamics, and Monte Carlo simulations
--  **Java Developer** - Building applications and learning traditional computer science topics like algorithms
 -  **Based in** Oslo, Norway
 -  **When not coding** - Enjoying grand strategy games and keeping up with AI research through "Two Minute Papers"
 
