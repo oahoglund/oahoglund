@@ -116,6 +116,10 @@
 </p>
 
 ## Some of my favorite projects
+### [Segmentation-Based Cardiac MRI Classification with an Interpretable Mesomorphic Network](https://github.com/oahoglund/acdc_classification_with_imn)
+**Neural Networks & CNN & XAI (Interpretable Mesomorphic Network)**  
+Bachelor thesis project exploring different neural networks on CMRI data. A fairly new sort of explainable neural network is tested (Interpretable Mesomorphic Network), and it is evaluated if its explanations make sense or not.
+
 ### [Explainable AI - Water Potability Prediction](https://github.com/oahoglund/MAMO3100-Oblig3)
 **Random Forest & SVC with XAI (PDP, ALE, Permutation Importance, Friedman’s H)**  
 Course project exploring interpretability of black-box models using real-world water quality data.
